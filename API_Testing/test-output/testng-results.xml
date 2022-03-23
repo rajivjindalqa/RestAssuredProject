@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-16T14:31:22 IST" name="Default suite" finished-at="2021-05-16T14:31:25 IST" duration-ms="3064">
+    <groups>
+    </groups>
+    <test started-at="2021-05-16T14:31:22 IST" name="Default test" finished-at="2021-05-16T14:31:25 IST" duration-ms="3064">
+      <class name="practiceWork.SoapRequest">
+        <test-method signature="soap()[pri:0, instance:practiceWork.SoapRequest@3059cbc]" started-at="2021-05-16T14:31:22 IST" name="soap" finished-at="2021-05-16T14:31:25 IST" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soap -->
+      </class> <!-- practiceWork.SoapRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
